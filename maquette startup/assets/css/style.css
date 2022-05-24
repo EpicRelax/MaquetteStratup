@@ -278,3 +278,6 @@ nav {
     to {width: 75%;}
 }
 
+#footer {
+    background-color: red;
+}
