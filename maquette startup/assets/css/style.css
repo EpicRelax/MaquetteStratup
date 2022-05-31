@@ -250,7 +250,7 @@ nav {
 
 #progressBar {
     animation: fill-bar 3s forwards;
-    animation-delay: 5s;
+    animation-delay: 3s;
 }
 
 @keyframes fill-bar {
@@ -260,7 +260,7 @@ nav {
 
 #progressBar2 {
     animation: fill-bar2 3s forwards;
-    animation-delay: 5s;
+    animation-delay: 3s;
 }
 
 @keyframes fill-bar2 {
@@ -270,7 +270,7 @@ nav {
 
 #progressBar3 {
     animation: fill-bar3 3s forwards;
-    animation-delay: 5s;
+    animation-delay: 3s;
 }
 
 @keyframes fill-bar3 {
@@ -278,6 +278,6 @@ nav {
     to {width: 75%;}
 }
 
-#footer {
+footer {
     background-color: red;
 }
